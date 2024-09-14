@@ -4,7 +4,7 @@
  * Plugin URI: https://wordpress.org/plugins/disposable-email-blocker-wpforms/
  * Author: Sajjad Hossain Sagor
  * Description: Prevent From Submitting Any Disposable/Temporary Emails On GravityForms Forms.
- * Version: 1.0.1
+ * Version: 1.0.2
  * Author URI: https://sajjadhsagor.com
  * Text Domain: disposable-email-blocker-gravityforms
  */
